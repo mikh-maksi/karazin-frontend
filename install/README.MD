@@ -57,3 +57,22 @@
 Вводим команду `git push` (возможно - нужно будет указать логин и пароль к git hub)
 
 <img src = "img/git17.jpg">  
+
+## Git Hub Pages
+Переходим в раздел "Settings" (Настройки)  
+<img src = "img/gitio01.jpg">  
+
+Листаем вниз до раздела "GitHub Pages"
+<img src = "img/gitio02.jpg">  
+
+В выпадающем меню выбираем "main"
+<img src = "img/gitio03.jpg">  
+
+Сохраняем (save)
+<img src = "img/gitio04.jpg">  
+
+Откроется новая страница, которую пролистайте до раздела "GitHub Pages"
+<img src = "img/gitio05.jpg">  
+
+По ссылке https://mikh-maksi.github.io/frontend-ek/ откроется отображение файлов
+<img src = "img/gitio06.jpg">  
