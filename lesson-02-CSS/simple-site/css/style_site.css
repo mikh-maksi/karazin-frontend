@@ -1,0 +1,24 @@
+*		{margin:0;	padding:0;}
+header	{background:#007;	height:200px;}
+nav		{background:#070;}
+main		{clear:both;}
+article	{background:#077;margin-left:200px;	min-height:300px;}
+aside	{background:#700;width:200px;min-height:300px;float:left;}
+footer	{background:#770;}
+.clear	{clear:both;
+}
+ul 			{display: block;   margin: 0;   padding: 0;   list-style: none;}
+ul:after 	{display: block;   content: ' ';   clear: both;   float: none;}
+ul.menu > li 	{ float: left;    position: relative; }
+
+ul.menu > li > a 	{display: block;   padding: 10px;   color: white;  
+					background-color: red;  text-decoration: none; }
+ul.menu > li > a:hover {background-color: black;}
+
+/*Задания:
+1. Поменять цвет меню.
+2. Поменять подчеркивание ссылки - сделать "зачеркивание"
+3. Заменить цвет, фона верхнего меню при наведении на синий.
+4. Сделать изменение фона при наведение на пункты меню (выпадающих элементов).
+5*. "Перетосовать" элементы меню только в CSS
+*/
